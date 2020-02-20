@@ -1,0 +1,7 @@
+D:\Opiskelu\Koulu\Careeria\Ohjelmoinnin perusteet C#lla 3 OSP\Hajoitteita\Arvauspeli\bin\Debug\Arvauspeli.exe.config
+D:\Opiskelu\Koulu\Careeria\Ohjelmoinnin perusteet C#lla 3 OSP\Hajoitteita\Arvauspeli\bin\Debug\Arvauspeli.exe
+D:\Opiskelu\Koulu\Careeria\Ohjelmoinnin perusteet C#lla 3 OSP\Hajoitteita\Arvauspeli\bin\Debug\Arvauspeli.pdb
+D:\Opiskelu\Koulu\Careeria\Ohjelmoinnin perusteet C#lla 3 OSP\Hajoitteita\Arvauspeli\obj\Debug\Arvauspeli.csprojAssemblyReference.cache
+D:\Opiskelu\Koulu\Careeria\Ohjelmoinnin perusteet C#lla 3 OSP\Hajoitteita\Arvauspeli\obj\Debug\Arvauspeli.csproj.CoreCompileInputs.cache
+D:\Opiskelu\Koulu\Careeria\Ohjelmoinnin perusteet C#lla 3 OSP\Hajoitteita\Arvauspeli\obj\Debug\Arvauspeli.exe
+D:\Opiskelu\Koulu\Careeria\Ohjelmoinnin perusteet C#lla 3 OSP\Hajoitteita\Arvauspeli\obj\Debug\Arvauspeli.pdb
